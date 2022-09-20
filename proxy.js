@@ -32,7 +32,7 @@ const server = new ProxyChain.Server({
             // If null, the proxy works in direct mode, i.e. the connection is forwarded directly
             // to the target server. This field is ignored if "requestAuthentication" is true.
             // The username and password must be URI-encoded.
-            upstreamProxyUrl: `http://W94pYG:MZhv1Y@70.38.2.12:10477`,
+            upstreamProxyUrl: `https://ivanbaturin9491:d50e12@64.74.163.147:11511`,
 
             // If "requestAuthentication" is true, you can use the following property
             // to define a custom error message to return to the client instead of the default "Proxy credentials required"
